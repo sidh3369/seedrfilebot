@@ -1,1 +1,0 @@
-{"root":["./src/worker/database.ts","./src/worker/env.d.ts","./src/worker/github.ts","./src/worker/index.ts","./src/worker/seedr-api.ts","./src/worker/seedr.ts","./src/worker/telegram-bot.ts"],"version":"5.8.3"}
