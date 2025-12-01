@@ -6,7 +6,8 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
-    "dev": "node bot.js"
+    "dev": "node bot.js",
+    "build": "echo 'no build needed'"
   },
   "dependencies": {
     "@octokit/rest": "^22.0.1",
